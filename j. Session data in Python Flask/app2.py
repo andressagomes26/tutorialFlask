@@ -19,34 +19,20 @@ def login():
     if request.method == 'POST':
         session['username'] = request.form['username']
         return redirect(url_for('index'))
-    return
+    return '''
+   <form action = "" method = "post">
+      <p><input type = text name = username/></p>
+      <p<<input type = submit value = Login/></p>
+   </form>	
+'''
 
 @app.route('/logout')
 def logout():
     session.pop('username', None)
     return redirect(url_for('index'))
 
-'''@app.route('/')
-def index():
-    return render_template('index.html')
 
+app.run(host='0.0.0.0', port=81)
 
-@app.route('/setcookie', methods=['POST', 'GET'])
-def setcookie():
-    if request.method == 'POST':
-        user = request.form['nm']
-
-    resp = make_response(render_template('readcookie.html'))
-    resp.set_cookie('userID', user)
-
-    return resp
-
-
-@app.route('/getcookie')
-def getcookie():
-    name = request.cookies.get('userID')
-    return '<h1>welcome ' + name + '</h1>'
-
-'''
-if __name__ == '__main__':
-   app.run(debug=True)
+#if __name__ == '__main__':
+#    app.run(debug=True)

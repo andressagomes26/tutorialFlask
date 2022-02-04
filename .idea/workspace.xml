@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b315a071-b11e-48b0-a931-3e9e7dccab0b" name="Default Changelist" comment="" />
+    <list default="true" id="b315a071-b11e-48b0-a931-3e9e7dccab0b" name="Default Changelist" comment="&quot;Itens H I J&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j. Session data in Python Flask/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/j. Session data in Python Flask/app2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +13,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i. Get and set cookies with Flask/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-101">
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/j. Session data in Python Flask/server.py">
+        <entry file="file://$PROJECT_DIR$/j. Session data in Python Flask/app2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a. What is Flask Python/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b. Flask Tutorial Hello World/server.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -63,6 +93,7 @@
         <option value="$PROJECT_DIR$/i. Get and set cookies with Flask/templates/readcookie.html" />
         <option value="$PROJECT_DIR$/i. Get and set cookies with Flask/server.py" />
         <option value="$PROJECT_DIR$/j. Session data in Python Flask/server.py" />
+        <option value="$PROJECT_DIR$/j. Session data in Python Flask/app2.py" />
       </list>
     </option>
   </component>
@@ -83,6 +114,21 @@
             <path>
               <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
+              <item name="a. What is Flask Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
+              <item name="b. Flask Tutorial Hello World" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
+              <item name="i. Get and set cookies with Flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
@@ -117,7 +163,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server (5)">
+  <component name="RunManager" selected="Python.app2">
+    <configuration name="app2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tutorialFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/j. Session data in Python Flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/j. Session data in Python Flask/app2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorialFlask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,28 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/j. Session data in Python Flask/server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tutorialFlask" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/e. Flask HTTP methods, handle GET &amp; POST requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e. Flask HTTP methods, handle GET &amp; POST requests/server.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\andre\Desktop\repo\tutorialFlask\j. Session data in Python Flask\app2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app2" />
         <item itemvalue="Python.server (5)" />
         <item itemvalue="Python.server (4)" />
         <item itemvalue="Python.server (2)" />
         <item itemvalue="Python.server (1)" />
-        <item itemvalue="Python.server" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +339,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3878887" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21276596" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,20 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a. What is Flask Python/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/b. Flask Tutorial Hello World/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -474,15 +506,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/i. Get and set cookies with Flask/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
+        <state relative-caret-position="-101">
           <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/j. Session data in Python Flask/server.py">
+    <entry file="file://$PROJECT_DIR$/a. What is Flask Python/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b. Flask Tutorial Hello World/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/j. Session data in Python Flask/app2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
