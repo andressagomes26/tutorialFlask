@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 def index():
     users = ['Rosalia', 'Adrianna', 'Victoria']
-    return render_template('index2.html', title='Welcome', members=users)
+    return render_template('index3.html', title='Welcome', username=users)
 
 
 app.run(host='0.0.0.0', port=81)
