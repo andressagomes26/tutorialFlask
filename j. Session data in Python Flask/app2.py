@@ -6,6 +6,7 @@ app = Flask(__name__)
 app.secret_key = 'any random string'
 
 
+
 @app.route('/')
 def index():
     if 'username' in session:
@@ -31,8 +32,8 @@ def logout():
     session.pop('username', None)
     return redirect(url_for('index'))
 
+#session['username'] = 'admin'
+#app.run(host='0.0.0.0', port=81)
 
-app.run(host='0.0.0.0', port=81)
-
-#if __name__ == '__main__':
-#    app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
