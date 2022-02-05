@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b315a071-b11e-48b0-a931-3e9e7dccab0b" name="Default Changelist" comment="&quot;Itens H I J&quot;">
-      <change afterPath="$PROJECT_DIR$/k. Upload a File with Python Flask/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k. Upload a File with Python Flask/templates/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l. Flask redirect and errors/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l. Flask redirect and errors/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/o. Send an E-mail with Python Flask/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p. Flask SQLite database/templates/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q. Flask SQLAlchemy (with Examples)/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q. Flask SQLAlchemy (with Examples)/templates/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q. Flask SQLAlchemy (with Examples)/templates/show_all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r. Flask Sijax (with Examples)/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/u. How to Set Up Flask with MongoDB/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w. Flask Boilerplate/application/controllers/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w. Flask Boilerplate/application/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w. Flask Boilerplate/config/development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w. Flask Boilerplate/manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/j. Session data in Python Flask/app2.py" beforeDir="false" afterPath="$PROJECT_DIR$/j. Session data in Python Flask/app2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +16,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/u. How to Set Up Flask with MongoDB/server.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/application/init.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#16#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/application/controllers/init.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
                 <element signature="e#40#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/config/development.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#16#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,9 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/a. What is Flask Python/server.py" />
-        <option value="$PROJECT_DIR$/b. Flask Tutorial Hello World/server.py" />
-        <option value="$PROJECT_DIR$/c. Flask Tutorial Templates/server.py" />
         <option value="$PROJECT_DIR$/c. Flask Tutorial Templates/serverC.py" />
         <option value="$PROJECT_DIR$/c. Flask Tutorial Templates/index.html" />
         <option value="$PROJECT_DIR$/c. Flask Tutorial Templates/templates/index2.html" />
@@ -110,6 +123,12 @@
         <option value="$PROJECT_DIR$/t. Flask REST API Tutorial/server.py" />
         <option value="$PROJECT_DIR$/t. Flask REST API Tutorial/data.txt" />
         <option value="$PROJECT_DIR$/u. How to Set Up Flask with MongoDB/server.py" />
+        <option value="$PROJECT_DIR$/v. Flask Login Tutorial/server.py" />
+        <option value="$PROJECT_DIR$/w. Flask Boilerplate/init.py" />
+        <option value="$PROJECT_DIR$/w. Flask Boilerplate/config/development.py" />
+        <option value="$PROJECT_DIR$/w. Flask Boilerplate/manager.py" />
+        <option value="$PROJECT_DIR$/w. Flask Boilerplate/application/init.py" />
+        <option value="$PROJECT_DIR$/w. Flask Boilerplate/application/controllers/init.py" />
       </list>
     </option>
   </component>
@@ -135,7 +154,13 @@
             <path>
               <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
-              <item name="u. How to Set Up Flask with MongoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="w. Flask Boilerplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorialFlask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorialFlask" type="462c0819:PsiDirectoryNode" />
+              <item name="w. Flask Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,6 +173,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\repo\tutorialFlask\w. Flask Boilerplate\application" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\andre\Desktop\repo\tutorialFlask\t. Flask REST API Tutorial" />
       <recent name="C:\Users\andre\Desktop\repo\tutorialFlask\g. Flask static files (Example)\static" />
@@ -165,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server (1)">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.manager">
+    <configuration name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorialFlask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/q. Flask SQLAlchemy (with Examples)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w. Flask Boilerplate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q. Flask SQLAlchemy (with Examples)/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w. Flask Boilerplate/manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.manager" />
         <item itemvalue="Python.server (1)" />
         <item itemvalue="Python.server (4)" />
         <item itemvalue="Python.server (3)" />
         <item itemvalue="Python.server" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +378,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26488096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26488096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41898528" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41898528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,7 +402,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41898528" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41898528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +436,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/c. Flask Tutorial Templates/index.html" />
     <entry file="file://$PROJECT_DIR$/c. Flask Tutorial Templates/templates/index3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -725,6 +752,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#40#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v. Flask Login Tutorial/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="124" column="24" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+          <folding>
+            <element signature="e#40#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/config/development.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/application/init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w. Flask Boilerplate/application/controllers/init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="e#40#51#0" expanded="true" />
           </folding>
