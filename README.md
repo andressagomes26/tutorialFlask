@@ -9,9 +9,9 @@ Repositório referente ao terceiro projeto da disciplina Tecnologias Web, na qua
 - Python
 - Flask.
   
-## Páginas do tutorial 
+## Passos Tutorial 
 
-  a) What is Flask Python
+a) What is Flask Python
 
 b) Flask Tutorial: Hello World
 
